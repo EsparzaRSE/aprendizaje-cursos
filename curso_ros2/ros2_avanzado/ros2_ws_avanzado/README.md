@@ -1,4 +1,4 @@
-# ROS2 Advanced Topics Repository
+# ROS2 - Avanzado
 
 Este repositorio contiene apuntes y ejemplos sobre temas avanzados en ROS2. Desde el uso de acciones hasta el manejo de Lifecycle Nodes y la introducción a ROS2 Components.
 

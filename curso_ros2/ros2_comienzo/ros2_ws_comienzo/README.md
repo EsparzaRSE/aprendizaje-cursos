@@ -1,4 +1,4 @@
-# Primer Contacto con ROS2
+# ROS2 - Comienzo: Primer Contacto con ROS2
 
 Este repositorio contiene apuntes y ficheros (enfocados en C++) utilizados para un primer contacto con ROS2. Se tratan los conceptos esenciales de ROS2 y proporciona un punto de partida para desarrollar aplicaciones robóticas.
 

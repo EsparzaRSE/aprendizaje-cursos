@@ -1,4 +1,4 @@
-# ROS2 nivel 2 - Ignition
+# ROS2 - Ignition
 
 Este repositorio contiene apuntes y ficheros sobre ROS2 enfocados en Ignition Fortress, RViz, TF (TransForm), y otras herramientas para el desarrollo de robots. Algunos de los conceptos se da por hecho que se conocen ya que se han visto en el repositorio de ros2-comienzo.
 
