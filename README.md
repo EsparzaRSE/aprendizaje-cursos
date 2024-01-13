@@ -1,6 +1,6 @@
-# Recopilación repositorio de cursos
+# Cursos y aprendizaje
 
-Este repositorio es el directorio central para varios cursos relacionados con ROS2, Ignition y C++. Los repositorios contienen tanto apuntes como la parte más práctica de los mismos. 
+Este repositorio es el directorio central para varios cursos relacionados con ROS2, Ignition y C++. Los repositorios contienen tanto apuntes propios como la parte más práctica de los mismos. 
 
 ## Lista de Repositorios
 
