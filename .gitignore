@@ -1,0 +1,10 @@
+/.vscode
+/curso_ros2/ros2_avanzado/ros2_ws_avanzado/build
+/curso_ros2/ros2_avanzado/ros2_ws_avanzado/install
+/curso_ros2/ros2_avanzado/ros2_ws_avanzado/log
+/curso_ros2/ros2_ignition/ros2_ws_ignition/build
+/curso_ros2/ros2_ignition/ros2_ws_ignition/install
+/curso_ros2/ros2_ignition/ros2_ws_ignition/log
+/curso_ros2/ros2_comienzo/ros2_ws_comienzo/build
+/curso_ros2/ros2_comienzo/ros2_ws_comienzo/install
+/curso_ros2/ros2_comienzo/ros2_ws_comienzo/log

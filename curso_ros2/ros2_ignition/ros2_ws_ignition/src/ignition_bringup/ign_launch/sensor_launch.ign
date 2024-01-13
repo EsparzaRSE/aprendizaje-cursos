@@ -1,0 +1,11 @@
+<?xml version='1.0'?>
+<ignition version='1.0'>
+  <executable name='sensor-world'>
+    <command>ign gazebo /home/esparza/ROS2_nivel2/ros2_ws_lvl2/src/ignition_bringup/worlds/my_robot_sensor_world.sdf</command>
+  </executable>
+
+  <executable name='lidar_node'>
+    <command>/home/esparza/ROS2_nivel2/ros2_ws_lvl2/src/lidar_sensor/build/lidar_node</command>
+  </executable>
+
+</ignition>
