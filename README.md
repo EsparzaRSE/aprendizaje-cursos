@@ -4,9 +4,9 @@ Este repositorio es el directorio central para varios cursos relacionados con RO
 
 ## Lista de Repositorios
 
-1. [Curso de ROS2](enlace-al-repositorio-ros2): Dedicado a ROS2 e ignition gazebo. Empiezan desde 0 hasta un nivel más avanzado.
+1. [Curso de ROS2](https://github.com/EsparzaRSE/aprendizaje-cursos/tree/main/curso_ros2): Dedicado a ROS2 e ignition gazebo. Empiezan desde 0 hasta un nivel más avanzado.
 
-3. [Curso de C++](enlace-al-repositorio-cpp): Dedicado a cursos de programación en C++. Hasta el momento contiene más párte teórica que práctica, pero espero soluciarlo poco a poco.
+3. [Curso de C++](https://github.com/EsparzaRSE/aprendizaje-cursos/tree/main/curso_cpp): Dedicado a cursos de programación en C++. Hasta el momento contiene más párte teórica que práctica, pero espero soluciarlo poco a poco.
 
 ## Notas Adicionales
 
